@@ -14,8 +14,9 @@ Overall, the smart pillbox system not only aims to improve medication adherence 
 
 
 
-<img src="![WhatsApp Image 2025-01-04 at 9 37 59 AM](https://github.com/user-attachments/assets/d2c157fc-df63-4694-8aa6-6fe52046cabe) " alt="Alt Text" style="width:50%; height:auto;">
 
+
+<img src="![WhatsApp Image 2025-01-04 at 9 37 59 AM](https://github.com/user-attachments/assets/d2c157fc-df63-4694-8aa6-6fe52046cabe) " alt="Image description" width="500"/>
 
 # Smart Pillbox 
 
