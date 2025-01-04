@@ -1,3 +1,6 @@
+
+# Projects Overview
+
 The Smart Pillbox System is a cutting-edge solution addressing medication non-adherence, a significant factor affecting patient health and healthcare costs. It enables doctors to input prescriptions via voice or by image of the prescription, ensuring accuracy through digital conversion and verification against a medication database. Once validated, the system generates a personalized medication schedule with timely notifications on both a mobile app and smartwatch, where vibrations serve as critical reminders.
 
 The digital pillbox features a sensor to monitor medication presence and sends refill alerts when necessary. It tracks whether medications are taken as prescribed, sending automated reminders for missed doses and recording adherence in real-time. Insights from the wellness monitoring section of the smartwatch utilize AI to analyze health changes related to medication use.
@@ -8,5 +11,3 @@ Overall, the smart pillbox system not only aims to improve medication adherence 
 
 
 
-
-# Projects
