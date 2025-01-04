@@ -12,7 +12,10 @@ Overall, the smart pillbox system not only aims to improve medication adherence 
 
 # AI - Model
 
-![WhatsApp Image 2025-01-04 at 9 37 59 AM](https://github.com/user-attachments/assets/d2c157fc-df63-4694-8aa6-6fe52046cabe) 
+![WhatsApp Image 2025-01-04 at 9 37 59 AM (1)](https://github.com/user-attachments/assets/e68ba7a1-830e-480d-a157-bdb2e4ef495a)
+
+The Prescription is trascribed and AI will generate the schedule.
+
 
 
 
@@ -24,9 +27,13 @@ Overall, the smart pillbox system not only aims to improve medication adherence 
 
 ![WhatsApp Image 2025-01-04 at 10 39 27 AM (1)](https://github.com/user-attachments/assets/aeacded5-12e9-4e21-a7d0-41f0e17ef3a3)
 
+Overall View.
 
 
+![WhatsApp Image 2025-01-04 at 10 39 28 AM (3)](https://github.com/user-attachments/assets/0aabf944-0806-465a-8b30-81fd228fc3f6)
 
+
+![WhatsApp Image 2025-01-04 at 10 39 28 AM (4)](https://github.com/user-attachments/assets/a7f0a8ab-fee3-4154-be23-b118fe0e6c25)
 
 
 
