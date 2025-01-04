@@ -34,7 +34,9 @@ The Prescription is trascribed and AI will generate the schedule.
 # Smart Pillbox 
 
 
-Overall View.
+a smart pillbox prototype featuring an ESP32 microcontroller, TCRT5000 sensors for pill detection, and LEDs for visual alerts. It integrates with mobile apps and wearables to provide real-time medication tracking, reminders, and adherence monitoring.
+
+
 ![WhatsApp Image 2025-01-04 at 10 39 27 AM (1)](https://github.com/user-attachments/assets/aeacded5-12e9-4e21-a7d0-41f0e17ef3a3)
 
 
@@ -57,6 +59,8 @@ Overall View.
 
 
 # Patient Site App UI
+
+Mobile app interface for the Medication Adherence System, featuring a daily schedule with time-specific slots (morning, afternoon, evening, night), a calendar for date selection, a detailed medication list with dosage and checkboxes for tracking, reminders via a bell icon, and a note-taking section for user observations. It simplifies medication management and promotes adherence.
 
 ![WhatsApp Image 2025-01-04 at 10 37 14 AM](https://github.com/user-attachments/assets/f38a52b3-f291-48a7-8d25-413e166d317f)
 
