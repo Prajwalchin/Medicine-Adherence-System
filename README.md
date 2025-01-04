@@ -1,3 +1,10 @@
+# Problem Statement
+
+Medication Adherence Monitoring System
+
+
+Develop a system that monitors patient adherence to prescribed medication regimens using digital pillboxes or wearable devices. The system should send reminders and alerts to patients and healthcare providers.
+
 
 # Projects Overview
 
@@ -12,9 +19,12 @@ Overall, the smart pillbox system not only aims to improve medication adherence 
 
 # AI - Model
 
+The Prescription is trascribed and AI will generate the schedule.
+
+
 ![WhatsApp Image 2025-01-04 at 9 37 59 AM (1)](https://github.com/user-attachments/assets/e68ba7a1-830e-480d-a157-bdb2e4ef495a)
 
-The Prescription is trascribed and AI will generate the schedule.
+
 
 
 
@@ -24,10 +34,10 @@ The Prescription is trascribed and AI will generate the schedule.
 # Smart Pillbox 
 
 
-
+Overall View.
 ![WhatsApp Image 2025-01-04 at 10 39 27 AM (1)](https://github.com/user-attachments/assets/aeacded5-12e9-4e21-a7d0-41f0e17ef3a3)
 
-Overall View.
+
 
 
 ![WhatsApp Image 2025-01-04 at 10 39 28 AM (3)](https://github.com/user-attachments/assets/0aabf944-0806-465a-8b30-81fd228fc3f6)
@@ -57,5 +67,8 @@ Overall View.
 # Docotr's Dashboard
 
 ![WhatsApp Image 2025-01-04 at 10 48 07 AM](https://github.com/user-attachments/assets/3ccd37d4-320c-4ef6-9451-246636102c07)
+
+
+![WhatsApp Image 2025-01-04 at 10 48 11 AM (1)](https://github.com/user-attachments/assets/18d3eb9d-ec03-484c-bede-095f6abfd692)
 
 
