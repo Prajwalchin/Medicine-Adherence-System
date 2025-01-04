@@ -10,6 +10,32 @@ To support patients further, adherence reports are accessible to healthcare prov
 Overall, the smart pillbox system not only aims to improve medication adherence but also creates a supportive ecosystem that empowers patients in managing their health effectively.
 
 
+# AI - Model
 
-![esp](https://github.com/user-attachments/assets/19c64adc-b8b5-4135-92e8-2ea65e2c1f01)
+![WhatsApp Image 2025-01-04 at 9 37 59 AM](https://github.com/user-attachments/assets/d2c157fc-df63-4694-8aa6-6fe52046cabe)
+
+
+
+# Smart Pillbox 
+
+![WhatsApp Image 2025-01-04 at 10 39 27 AM](https://github.com/user-attachments/assets/ec5ecc66-c882-47e7-a6c3-cd9cfb33f40e)
+
+
+![WhatsApp Image 2025-01-04 at 10 39 28 AM](https://github.com/user-attachments/assets/6960c861-4d40-4707-b21c-d3e60af3e97f)
+
+
+![WhatsApp Image 2025-01-04 at 10 39 28 AM](https://github.com/user-attachments/assets/33c30f41-e7be-4b97-b52c-04b07bce6b08)
+
+
+![WhatsApp Image 2025-01-04 at 10 39 28 AM (2)](https://github.com/user-attachments/assets/3d83f1c5-cd61-4e63-8dd7-07905a54c242)
+
+
+
+# Patient Site App UI
+
+![WhatsApp Image 2025-01-04 at 10 37 14 AM](https://github.com/user-attachments/assets/f38a52b3-f291-48a7-8d25-413e166d317f)
+
+
+
+
 
