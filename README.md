@@ -72,7 +72,7 @@ Mobile app interface for the Medication Adherence System, featuring a daily sche
 
 # Docotr's Dashboard
 
-This *Doctor's Dashboard* provides an overview of patient management metrics, including total patients, average adherence, critical alerts, and pending reviews, along with a line chart displaying patient adherence trends over time. It is designed to help doctors monitor adherence and address critical issues efficiently.
+This Doctor's Dashboard provides an overview of patient management metrics, including total patients, average adherence, critical alerts, and pending reviews, along with a line chart displaying patient adherence trends over time. It is designed to help doctors monitor adherence and address critical issues efficiently.
 
 ![WhatsApp Image 2025-01-04 at 10 48 07 AM](https://github.com/user-attachments/assets/3ccd37d4-320c-4ef6-9451-246636102c07)
 
