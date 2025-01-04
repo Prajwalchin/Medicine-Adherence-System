@@ -34,7 +34,9 @@ The Prescription is trascribed and AI will generate the schedule.
 # Smart Pillbox 
 
 
-a smart pillbox prototype featuring an ESP32 microcontroller, TCRT5000 sensors for pill detection, and LEDs for visual alerts. It integrates with mobile apps and wearables to provide real-time medication tracking, reminders, and adherence monitoring.
+A Smart pillbox prototype featuring an ESP32 microcontroller, TCRT5000 sensors for pill detection, and LEDs for visual alerts. It integrates with mobile apps and wearables to provide real-time medication tracking, reminders, and adherence monitoring.
+
+
 
 
 ![WhatsApp Image 2025-01-04 at 10 39 27 AM (1)](https://github.com/user-attachments/assets/aeacded5-12e9-4e21-a7d0-41f0e17ef3a3)
