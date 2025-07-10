@@ -1,4 +1,4 @@
-# 🩺 HealthMobi
+o# 🩺 HealthMobi
 
 An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle.
 
@@ -185,7 +185,7 @@ Mobile app interface for the Medication Adherence System, featuring a daily sche
 
 
 
-# Docotr's Dashboard
+# Docotor's Dashboard
 
 This Doctor's Dashboard provides an overview of patient management metrics, including total patients, average adherence, critical alerts, and pending reviews, along with a line chart displaying patient adherence trends over time. It is designed to help doctors monitor adherence and address critical issues efficiently.
 
