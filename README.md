@@ -185,7 +185,7 @@ Mobile app interface for the Medication Adherence System, featuring a daily sche
 
 
 
-# Docotor's Dashboard
+# Doctor's Dashboard
 
 This Doctor's Dashboard provides an overview of patient management metrics, including total patients, average adherence, critical alerts, and pending reviews, along with a line chart displaying patient adherence trends over time. It is designed to help doctors monitor adherence and address critical issues efficiently.
 
