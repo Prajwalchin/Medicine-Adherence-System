@@ -14,18 +14,15 @@ HealthMobi is a comprehensive healthcare platform that bridges the gap between d
 - **💊 Medication Management**: Create and track medicine courses with customizable schedules
 - **⏰ Smart Notifications**: Automated reminders for medicine intake
 - **📊 Adherence Tracking**: Visual matrix to track medication compliance over time
-- **🏥 Doctor-Patient Connection**: Direct communication between doctors and patients
 - **📱 Real-time Updates**: WebSocket-based instant notifications and updates
-- **🌐 Multi-language Support**: Available in English, Hindi, and Marathi
 
 ## 🤝 Interactive Features
 
-- **📲 Medication Intake Confirmation**: Interactive push notifications allow patients to confirm medication intake with a single tap
-- **📅 Visual Calendar**: Interactive calendar view showing medication schedule and adherence history
+- **📲 Medication Intake Confirmation**: Interactive notifications and allow patients to confirm medication intake with a single press
 - **🔔 Smart Reminders**: Context-aware notifications that adjust timing based on user behavior patterns
 - **💬 Intelligent AI Assistant**: Intuitive AI-powered chat system that allows patients to effortlessly update meal times, medication schedules, and health routines with natural language commands
 - **📊 Progress Visualization**: Interactive charts showing adherence trends and health improvements
-- **🔄 Sync Across Devices**: Seamless experience across mobile and web platforms
+- **🔄 Sync Across Devices**: Seamless experience across mobile and pillbox
 
 
 
@@ -46,7 +43,7 @@ HealthMobi is a comprehensive healthcare platform that bridges the gap between d
 
 ### Frontend Components
 
-- **React Native**: Cross-platform mobile application
+- **Flutter**: Cross-platform mobile application
 - **Modern UI/UX**: Intuitive user interface for all features
 - **Local Storage**: Caching for offline functionality
 - **Push Notifications**: Real-time alerts for medication reminders
@@ -54,17 +51,18 @@ HealthMobi is a comprehensive healthcare platform that bridges the gap between d
 ### Embedded Systems
 
 - **IoT Integration**: Support for smart medication pill box 
-- **Health Monitoring**: Integration with health tracking devices
+- **Adherence Monitoring**: Integration with intake tracking sensors
 
 ### Database Schema
 
 The application uses a relational database with tables for:
 
-- Users (patients and doctors)
+- Users 
 - Authentication tokens
+- Prescription images
 - Medication courses
-- Medicine intakes
-- Prescription media (images and voice notes)
+- Medicine course
+- Medicine intake
 - Daily motivational quotes
 
 ## 🚀 Getting Started
@@ -103,27 +101,22 @@ The mobile application provides:
 
 - User-friendly medication tracking interface
 - Reminders and notifications
-- Doctor communication tools
-- Health insights and analytics
+- Medication adherence insights and analytics
 
 ## 💡 Unique Features
 
 - **Quote of the Day**: Daily motivational health quotes in the user's preferred language
 - **Visual Medication Adherence**: Intuitive matrix display showing medication compliance
-- **Voice Prescription Notes**: Doctors can record voice notes with prescription instructions
 - **Custom User Notes**: Personal health notes for patients to track symptoms and progress
 
 ## 🔒 Security Features
 
 - Token-based authentication
 - Secure OTP verification
-- Role-based access control
-- Encrypted sensitive data
 
 ## 🌈 Future Roadmap
 
-- AI-powered health insights
-- Telemedicine video consultations
+- AI-powered health insight
 - Integration with wearable health devices
 - Expanded language support
 
