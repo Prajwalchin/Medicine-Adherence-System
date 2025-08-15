@@ -3,6 +3,10 @@
 An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle.
 
 > **💻 Developed by Gameis Alice Team from PICT College**
+> PRAJWAL CHINCHMALATPURE
+> DURGESH KHADE
+> PARAS THAKUR
+> NEHA DIWAN
 
 ## 🌟 Overview
 
